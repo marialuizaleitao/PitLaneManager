@@ -9,6 +9,7 @@ PitLane Manager is a React web application designed to manage Formula 1 personne
 - **React**: The frontend framework used to build the user interface and manage state.
 - **JavaScript**: The primary programming language for implementing logic and interactivity.
 - **Figma**: A web-based design tool used for prototyping and creating the initial UI/UX design.
+- **Vercel**: The platform used to deploy the application for production.
 
 ## Features
 
@@ -22,8 +23,11 @@ The initial UI/UX design for PitLane Manager was prototyped using Figma. Figma a
 
 ![image](https://github.com/marialuizaleitao/pitlane-manager/assets/88951059/bca5554d-7ec4-405f-957a-7951475201f3)
 
+## Deployment
 
-## How to Run the App
+The PitLane Manager application is deployed using Vercel, which provides a seamless deployment experience and hosting for web applications. You can view the live application [here](https://your-vercel-deployment-url.vercel.app).
+
+## How to Run the App Locally
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
